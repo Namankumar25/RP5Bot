@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#bot {
+    width: 310px;
+    height: 280px;
+}
+
+#bot2 {
+    width: 59px;
+    height: 50px;
+    position: absolute;
+    margin-left: -202px;
+    margin-top: 7px;
+}
+
+.container {
+
+    width: 433px;
+    height: 650px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    border: #02c4cd 7px solid;
+    border-radius: 34px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#user_input {
+    width: 303px;
+    height: 41px;
+    border: red 2px solid;
+    font-size: 1rem;
+    padding-left: 4px;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+
+    color: crimson;
+  
+}
+
+#output {
+    padding: 5px;
+    text-align: left;
+    color: #4a14ed;
+    border-radius: 13px;
+    margin: auto;
+    width: 256px;
+    height: 53px;
+    border: 2px black solid;
+    font-size: 1rem;
+    
+
+}
+
+.buttonDesign {
+    height: 46px;
+    width: 120px;
+    color: tomato;
+    margin: 2px;
+    font-size: 1rem;
+    background-color: black;
+    border-radius: 11px;
+}
